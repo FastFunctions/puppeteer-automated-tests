@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-automated-tests",
+  "version": "1.0.0",
+  "description": "Automating tests with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FastFunctions/puppeteer-automated-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FastFunctions/puppeteer-automated-tests/issues"
+  },
+  "homepage": "https://github.com/FastFunctions/puppeteer-automated-tests#readme",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "puppeteer": "^3.3.0"
+  }
+}
