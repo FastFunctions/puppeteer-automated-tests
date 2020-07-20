@@ -1,2 +1,2 @@
 # puppeteer-automated-tests
-Automating tests with Puppeteer 2
+Automating tests with Puppeteer 3
