@@ -29,4 +29,4 @@ describe('Login test cases', () => {
 
 afterEach( async () => {
   await browser.close();
-})
+});
